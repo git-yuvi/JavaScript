@@ -1,4 +1,4 @@
-//ToggleCheckbox
+//JavaScript ToggleCheckbox
 <!DOCTYPE html>
 <html>
 <head>
