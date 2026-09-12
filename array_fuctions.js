@@ -1,3 +1,4 @@
+//Array Functions
 console.log("ForEach()");
 const student =[
     { sname:'david',age:23},
