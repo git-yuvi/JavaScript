@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+// JavaScript weakset
 <html>
 <body>
 <h1>JavaScript WeakSet</h1>
