@@ -1,4 +1,4 @@
-// MapFunction
+//JavaScript MapFunction
 console.log("Map()");
 const student =[
     { sname:'david',age:23},
