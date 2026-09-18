@@ -1,3 +1,4 @@
+//String functions
 let first_name="Hello";
 let last_name="Friend";
 
