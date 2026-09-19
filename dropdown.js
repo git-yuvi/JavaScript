@@ -1,4 +1,4 @@
-//JavaScript Dropdown 
+//JScript Dropdown 
 <!DOCTYPE html>
 <html>
 <head>
