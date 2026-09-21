@@ -1,4 +1,4 @@
-//Javascript Array Filter
+//JavaScript Array Filter
 <html>
 <body>
 
