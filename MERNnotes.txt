@@ -1,0 +1,171 @@
+Methods, Properties, functions APIs of MERN
+
+They are generally called methods, functions, properties, and APIs — depending on what you're looking at.
+
+------------------------------------------------------------------------------------------------------------------
+CODE                    | WHAT IS IT?       | SOMETHING / OBJECT       | COMES FROM       | CATEGORY
+------------------------|-------------------|--------------------------|------------------|-----------------------
+arr.map()               | Method            | Array                    | JavaScript       | Array
+arr.filter()            | Method            | Array                    | JavaScript       | Array
+arr.find()              | Method            | Array                    | JavaScript       | Array
+arr.forEach()           | Method            | Array                    | JavaScript       | Array
+arr.reduce()            | Method            | Array                    | JavaScript       | Array
+
+str.toUpperCase()       | Method            | String                   | JavaScript       | String
+str.toLowerCase()       | Method            | String                   | JavaScript       | String
+str.includes()          | Method            | String                   | JavaScript       | String
+str.split()             | Method            | String                   | JavaScript       | String
+
+Object.keys()           | Method            | Object                   | JavaScript       | Object
+Object.values()         | Method            | Object                   | JavaScript       | Object
+Object.entries()        | Method            | Object                   | JavaScript       | Object
+
+promise.then()          | Method            | Promise                  | JavaScript       | Promise
+promise.catch()         | Method            | Promise                  | JavaScript       | Promise
+Promise.all()           | Method            | Promise                  | JavaScript       | Promise
+
+JSON.parse()            | Method            | JSON                     | JavaScript       | JSON
+JSON.stringify()        | Method            | JSON                     | JavaScript       | JSON
+
+Math.random()           | Method            | Math                     | JavaScript       | Math
+Math.floor()            | Method            | Math                     | JavaScript       | Math
+
+Date.now()              | Method            | Date                     | JavaScript       | Date
+
+
+fs.readFile()           | Method            | fs                       | Node.js          | File System
+fs.writeFile()          | Method            | fs                       | Node.js          | File System
+fs.mkdir()              | Method            | fs                       | Node.js          | File System
+
+path.join()             | Method            | path                     | Node.js          | Path
+path.resolve()          | Method            | path                     | Node.js          | Path
+
+http.createServer()     | Method            | http                     | Node.js          | HTTP
+
+process.env             | Property          | process                  | Node.js          | Environment
+process.exit()          | Method            | process                  | Node.js          | Process
+
+require()               | Function          | require                  | Node.js          | Modules
+module.exports          | Property          | module                   | Node.js          | Modules
+
+
+app.get()               | Method            | Express app              | Express.js       | Routing
+app.post()              | Method            | Express app              | Express.js       | Routing
+app.put()               | Method            | Express app              | Express.js       | Routing
+app.patch()             | Method            | Express app              | Express.js       | Routing
+app.delete()            | Method            | Express app              | Express.js       | Routing
+
+app.use()               | Method            | Express app              | Express.js       | Middleware
+app.listen()            | Method            | Express app              | Express.js       | Server
+
+res.send()              | Method            | Express response         | Express.js       | Response
+res.json()              | Method            | Express response         | Express.js       | Response
+res.status()            | Method            | Express response         | Express.js       | Response
+res.redirect()          | Method            | Express response         | Express.js       | Response
+
+req.params              | Property          | Express request          | Express.js       | Request data
+req.query               | Property          | Express request          | Express.js       | Request data
+req.body                | Property          | Express request          | Express.js       | Request data
+req.headers             | Property          | Express request          | Express.js       | Request data
+
+router.get()            | Method            | Express Router           | Express.js       | Routing
+router.post()           | Method            | Express Router           | Express.js       | Routing
+router.use()            | Method            | Express Router           | Express.js       | Middleware
+
+
+Model.find()            | Method            | Mongoose model           | Mongoose          | Database
+Model.findOne()         | Method            | Mongoose model           | Mongoose          | Database
+Model.create()          | Method            | Mongoose model           | Mongoose          | Database
+Model.updateOne()       | Method            | Mongoose model           | Mongoose          | Database
+Model.deleteOne()       | Method            | Mongoose model           | Mongoose          | Database
+
+bcrypt.hash()           | Method            | bcrypt                   | bcrypt            | Password hashing
+bcrypt.compare()        | Method            | bcrypt                   | bcrypt            | Password verification
+
+jwt.sign()              | Method            | jwt                      | jsonwebtoken      | Authentication
+jwt.verify()            | Method            | jwt                      | jsonwebtoken      | Authentication
+
+
+useState()              | Hook / Function  | React                    | React              | State
+useEffect()             | Hook / Function  | React                    | React              | Side effects
+useContext()            | Hook / Function  | React                    | React              | Context
+useRef()                | Hook / Function  | React                    | React              | References
+useMemo()               | Hook / Function  | React                    | React              | Performance
+useCallback()           | Hook / Function  | React                    | React              | Performance
+
+useNavigate()           | Hook / Function  | React Router             | React Router       | Navigation
+useParams()             | Hook / Function  | React Router             | React Router       | URL parameters
+useLocation()           | Hook / Function  | React Router             | React Router       | URL / Location
+
+<Route>                 | Component        | React Router             | React Router       | Routing
+
+-----------
+
+METHOD
+something.doSomething()
+
+Example:
+app.get()
+arr.map()
+res.json()
+
+-----------
+
+PROPERTY
+something.value
+
+Example:
+req.body
+req.params
+process.env
+
+
+----------
+
+FUNCTION
+doSomething()
+
+Example:
+require()
+setTimeout()
+
+
+----------
+
+HOOK
+Special React function
+
+Example:
+useState()
+useEffect()
+useContext()
+
+----------
+
+API
+A collection/interface of functionality provided by
+JavaScript, Node.js, Express, or another library.
+
+Examples:
+JavaScript Array API
+Node.js File System API
+Express API
+Web API
+
+-----------
+
+One important distinction: an API isn't another type of method. An API is the broader interface/collection of functionality; that API can contain methods, functions, properties, classes, etc.
+
+-----------
+
+API
+│
+├── Methods
+├── Functions
+├── Properties
+├── Classes
+├── Objects
+└── Other features
+
+
+
