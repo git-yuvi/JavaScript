@@ -1,4 +1,4 @@
-//Javascript Mathrandom
+//Javascript Mathrandom() Functions
 <!DOCTYPE html>
 <html>
 <body>
