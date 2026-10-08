@@ -1,4 +1,4 @@
-//JavaScript encodeURI() method encodes a URI
+//JavaScript encodeURI()method encodes a URI
 <html>
 <body>
 
