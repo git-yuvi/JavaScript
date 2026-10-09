@@ -1,4 +1,4 @@
-//JavaScript Hoisting
+//JavaScript basic Hoisting
 <html>
 <body>
 
