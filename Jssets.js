@@ -1,5 +1,4 @@
-//JavaScript Sets
-<!DOCTYPE html>
+//JavaScript Set operators
 <html>
 <body>
 <h1>JavaScript Sets</h1>
