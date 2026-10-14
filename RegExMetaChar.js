@@ -1,4 +1,4 @@
-// JavaScript RegexMetaCharacters
+// JavaScript Regex MetaCharacters
 
 <!DOCTYPE html>
 <html>
