@@ -1,4 +1,4 @@
-//JavaScript Background Colour Changer
+//JavaScript Background Colour Changing Button
 
 https://codepen.io/javascriptacademy-stash/pen/oNeNMNR
 
