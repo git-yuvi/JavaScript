@@ -1,4 +1,4 @@
-//String functions
+//String functions in Javascript
 let first_name="Hello";
 let last_name="Friend";
 
