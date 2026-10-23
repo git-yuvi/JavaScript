@@ -1,4 +1,4 @@
-//JavaScript Disjoint Method
+//JavaScript DisjointFrom()Method
 <html>
 <body>
 <h1>JavaScript Sets</h1>
