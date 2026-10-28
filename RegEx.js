@@ -1,4 +1,4 @@
-//JavaScript RegEx
+//JavaScript RegEx (Regular Expressions)
 <!DOCTYPE html>
 <html>
 <body>
