@@ -8,7 +8,7 @@ app.use(express.json())
 //Sample in-memory storage for todo items
 let todos = [];
 
-//Create a new todo item
+//Create a new Todo item
 app.post('/todos',(req, res) => {
     const {title, description} = req.body;
     const newTodo = {
