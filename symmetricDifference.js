@@ -1,4 +1,4 @@
-//JavaScript Symmetric Difference in sets
+//Symmetric Difference in sets
 <html>
 <body>
 <h1>JavaScript Sets</h1>
