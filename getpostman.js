@@ -1,8 +1,8 @@
-//Using express
+//Using Express
 const express = require('express');
 
 
-//Create a instance of express
+//Create a instance of Express
 const app = express();
 app.use(express.json())
 
