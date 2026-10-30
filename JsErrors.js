@@ -1,4 +1,4 @@
-//JavaScript ErrorHandling
+//JavaScript Error Handling
 <html>
 <body>
 <h1>JavaScript Errors</h1>
