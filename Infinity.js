@@ -1,4 +1,4 @@
-//Infinity Property in JS
+//Infinity Property in JavaScript
 <!DOCTYPE html>
 <html>
 <body>
