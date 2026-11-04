@@ -1,4 +1,4 @@
-//JScript sets
+//JavaScript sets
 <html>
 <body>
 <h1>JavaScript Sets</h1>
