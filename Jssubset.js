@@ -1,4 +1,4 @@
-//Subset
+//Javascript Subset
 <html>
 <body>
 <h1>JavaScript Sets</h1>
