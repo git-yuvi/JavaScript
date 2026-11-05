@@ -1,4 +1,4 @@
-//JavaScript TypeConversion
+//Js TypeConversion
 let a;
 //Others to String
 a=25;
